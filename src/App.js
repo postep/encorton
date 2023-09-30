@@ -127,7 +127,7 @@ export default function App() {
         stickyFooterScrollbar={false}
         locales="pl" // Set the Polish locale
         locale="pl"
-        // height={2000}
+        // height={3000}
         // multiMonthMaxColumns={4} // force a single column
       />
     </div>
