@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/encorton/static/css/main.b01723cf.css",
+    "main.js": "/encorton/static/js/main.bab64f2c.js",
+    "static/js/787.ffd5fc5e.chunk.js": "/encorton/static/js/787.ffd5fc5e.chunk.js",
+    "index.html": "/encorton/index.html",
+    "main.b01723cf.css.map": "/encorton/static/css/main.b01723cf.css.map",
+    "main.bab64f2c.js.map": "/encorton/static/js/main.bab64f2c.js.map",
+    "787.ffd5fc5e.chunk.js.map": "/encorton/static/js/787.ffd5fc5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b01723cf.css",
+    "static/js/main.bab64f2c.js"
+  ]
+}
